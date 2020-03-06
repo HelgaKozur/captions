@@ -13,7 +13,7 @@ FRM_FY20_NONINTVIDEO_MOTION_GOLD_MEDAL_GRIZZLY_MID_ROLL_APOLOGIES_PHASE2_15S_INN
 <Creatives>
 <Creative>
 <Linear>
-<Duration>1000:99:99</Duration>
+<Duration>00:99:99</Duration>
 <MediaFiles>
 <MediaFile delivery="progressive" width="16" height="9" type="application/javascript" apiFramework="VPAID">
 <![CDATA[
