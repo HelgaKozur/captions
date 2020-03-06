@@ -29,7 +29,7 @@
 </TrackingEvents>
 <Duration>00:00:32</Duration>
 <MediaFiles>
-<MediaFile id="5241" delivery="progressive"  bitrate="2000" width="1280" height="720" minBitrate="1500" maxBitrate="2500" scalable="1" maintainAspectRatio="1" codec="H.264">
+<MediaFile id="5241" delivery="progressive"  bitrate="2000" width="1280" height="720" type="application/javascript" minBitrate="1500" maxBitrate="2500" scalable="1" maintainAspectRatio="1" codec="H.264">
 </MediaFiles>
 <VideoClicks>
 <ClickThrough id="blog">
