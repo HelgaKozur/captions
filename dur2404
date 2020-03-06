@@ -16,9 +16,7 @@ FRM_FY20_NONINTVIDEO_MOTION_GOLD_MEDAL_GRIZZLY_MID_ROLL_APOLOGIES_PHASE2_15S_INN
 <Duration>00:00:15</Duration>
 <MediaFiles>
 <MediaFile delivery="progressive" width="16" height="9" type="application/javascript" apiFramework="VPAID">
-<![CDATA[
-https://www.google.com/404
-]]>
+<https://www.google.com/404>
 </MediaFile>
 </MediaFiles>
 </Linear>
