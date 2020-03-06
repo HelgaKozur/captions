@@ -10,7 +10,7 @@ FRM_FY20_NONINTVIDEO_MOTION_GOLD_MEDAL_GRIZZLY_MID_ROLL_APOLOGIES_PHASE2_15S_INN
 <Impression>
 <![CDATA[ about:blank ]]>
 </Impression>
-
+<InLine>
 <Linear>
 <Duration>00:00:15</Duration>
 <MediaFiles>
@@ -21,6 +21,6 @@ https://s-static.innovid.com/mobileapps/s/js/vpaid/1jjtuj?cb=ed9d5e57-bac5-79bf-
 </MediaFile>
 </MediaFiles>
 </Linear>
-
+</InLine>
 </Ad>
 </VAST>
